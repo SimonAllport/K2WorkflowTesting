@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="K2WorkflowUnitTest.UnitTest1.StartWorkflow_Success" /><Add Test="K2WorkflowUnitTest.UnitTest1.StartWorkflow_Running_Success" /></Playlist>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+<ProcessName>k2-server-int02</ProcessName>
+<Folio></Folio>
+<ProcessInstanceId>5555</ProcessInstanceId>
+<StartStatus>End</StartStatus>
+<TaskCount Actual="1">0</TaskCount>
+  <SerialNumber>00_00</SerialNumber>
+  <Destination>Bob</Destination>
+  <Actions>
+    <Action>Approve</Action>
+  </Actions>
+  <ActionResult>Approve</ActionResult>
+  <Activities>
+    <Activity>
+      <Event name="Status Check">Pass</Event>
+    </Activity>
+  </Activities>
+</Settings>
